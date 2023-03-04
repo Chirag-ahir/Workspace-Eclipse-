@@ -12,5 +12,6 @@ public class User {
 
 		com.miit.factory.System laptop = SystemFactory.getSystem(SystemType.LAPTOP, "16 GB", "140 GB", "2,23 HGZ", true, true);
 		System.out.println("Laptop Config::" + laptop);
+		
 	}
 }

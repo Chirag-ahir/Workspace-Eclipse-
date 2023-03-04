@@ -2,6 +2,7 @@ package com.miit.factoryimpl;
 
 import com.miit.factory.System;
 
+//This is the another concrete implementation of supertype
 public class Laptop implements System {
 	
 	public String ram;

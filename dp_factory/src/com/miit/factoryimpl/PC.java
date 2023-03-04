@@ -2,6 +2,8 @@ package com.miit.factoryimpl;
 
 import com.miit.factory.System;
 
+//This is the concrete implementation of supertype
+
 public class PC implements System {
 	
 	public String ram;
